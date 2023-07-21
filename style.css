@@ -1,0 +1,131 @@
+.box-chat{
+    width: 280px;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+}
+.header{
+    border: 1px solid #ddd;
+}
+.icon{
+    background: #FE5DA3;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    display: inline-block;
+    text-align: center;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 32px;
+    color: #fff;
+    margin-right:10px;
+}
+.title{
+    display: inline-block;
+    font-size: 14px;
+    font-weight: 700;
+}
+.girl{
+    background: #ccc;
+    color: #000;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 13px;
+    max-width: 200px;
+    margin-top: 10px;
+    margin-right:auto;
+    margin-bottom: 10px;
+    margin-left:10px;
+}
+.boy{
+    background: #FE5DA3;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 15px;
+    font-size: 13px;
+    max-width: 200px;
+    margin-left:auto;
+    margin-bottom:10px;
+    margin-right:10px;
+}
+.send{
+    border-top: 1px solid #ddd;
+    padding: 10px;
+}
+.input-text{
+    width: 190px;
+    height: 10px;
+    border: 1px solid #ddd;
+    border-radius: 15px;
+    padding: 10px;
+    outline: none;
+}
+.send-text{
+    border-radius: 15px;
+    border: 1px solid #FE5DA3;
+    background: #FE5DA3;
+    color: #fff;
+    height: 25px;
+    padding: 0 10px;
+    cursor: pointer;
+}
+.box-sp{
+    border: 1px solid #ddd;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+    width: 130px;
+    padding: 10px;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+}
+.sanpham{
+    width: auto;
+    height: 50px;
+}
+.tensanpham{
+    font-size: 10px;
+    font-weight: 600;
+}
+.box{
+    width: 200px;
+    border: 1px solid #ddd;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-right: 10px;
+}
+.Images{
+    width: 200px;
+    height: 180px;
+    
+}
+.name{
+    font-size: 16px;
+    font-weight: 800;
+    display: block;
+    margin-bottom: 2px ;
+}
+.price{
+    font-size: 16px;
+    font-weight: 700;
+    color: green;
+    display: block;
+    margin-bottom: 2px;
+}
+.price1{
+    font-size: 16px;
+    font-weight: 300;
+    color: red;
+    display: block;
+    margin-bottom: 2px;
+}
+.sell{
+    font-size: 16px;
+    font-weight: 300;
+    color: purple;
+    display: block;
+    margin-bottom: 2px;
+}
